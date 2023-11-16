@@ -1,6 +1,6 @@
 
 body {
-  background-color: aliceblue;
+  background-color: red;
   margin: 0;
   display: flex;
   place-items: center;
@@ -8,8 +8,29 @@ body {
   min-height: 100vh;
 }
 
-h1 {
-  font-size: 3.2em;
+h1,p,button {
+  font-size: 1em;
   line-height: 1.1;
+  
+  
+}
+#card{
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  width: 7%;
+  height: 4%;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+  overflow: hidden;
+  background-color: aliceblue;
 }
 
+#container{
+  background-color: blue;
+  height:5000px;
+  width:6000px;
+  display: flex;
+  flex-direction: row;
+}
