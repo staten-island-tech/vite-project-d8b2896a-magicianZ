@@ -31,7 +31,7 @@ DOMselectors.y.addEventListener("click", function(event){
     event.preventDefault()
     let htmlelements = ""
     let x = deepwoken.filter((something)=>something.attunement==="Frostdraw");
-    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <p>${sm.type}</p> </div>`)
+    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> </div>`)
     DOMselectors.container.innerHTML = htmlelements
     
 });
@@ -40,7 +40,7 @@ DOMselectors.buttin2.addEventListener("click", function(event){
     event.preventDefault()
     let htmlelements = ""
     let x = deepwoken.filter((something)=>something.attunement==="Flamecharm");
-    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <p>${sm.type}</p> </div>`)
+    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> </div>`)
     DOMselectors.container.innerHTML = htmlelements
     
 });
@@ -48,7 +48,7 @@ DOMselectors.buttin3.addEventListener("click", function(event){
     event.preventDefault()
     let htmlelements = ""
     let x = deepwoken.filter((something)=>something.attunement==="Galebreathe");
-    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <p>${sm.type}</p> </div>`)
+    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> </div>`)
     DOMselectors.container.innerHTML = htmlelements
     
 });
@@ -56,7 +56,7 @@ DOMselectors.buttin4.addEventListener("click", function(event){
     event.preventDefault()
     let htmlelements = "" 
     let x = deepwoken.filter((something)=>something.attunement==="Thundercall");
-    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <p>${sm.type}</p> </div>`)
+    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> </div>`)
     DOMselectors.container.innerHTML = htmlelements
     
 });
@@ -64,7 +64,7 @@ DOMselectors.buttin5.addEventListener("click", function(event){
     event.preventDefault()
     let htmlelements = ""
     let x = deepwoken.filter((something)=>something.attunement==="Ironsing");
-    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <p>${sm.type}</p> </div>`)
+    x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> </div>`)
     DOMselectors.container.innerHTML = htmlelements
     
 });

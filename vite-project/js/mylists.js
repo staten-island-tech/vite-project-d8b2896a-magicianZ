@@ -1,3 +1,7 @@
+
+
+
+
 const deepwoken = [
     {
         name:"Fire Blade",
@@ -128,10 +132,17 @@ const deepwoken = [
         type:"Combat"
     },
     {
+        name:"Flaming Scourge",
+        attunement:"Flamecharm",
+        stars:3,
+        img:"",
+        type:"Combat"
+    },
+    {
         name:"Lightning Blade",
         attunement:"Thundercall",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/4b/Lightning_blade.gif/revision/latest?cb=20211227210247",
+        img:"../images/Lightning_blade.webp",
         type:"Combat"
     },
     {

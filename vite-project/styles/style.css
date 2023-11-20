@@ -1,4 +1,5 @@
 
+@import url(variables.css);
 body {
   background-color: red;
   margin: 0;
@@ -25,14 +26,27 @@ h1,p,button {
   padding: 50px;
   overflow: hidden;
   background-color: aliceblue;
+  border-color: var(--bordercoler);
+  border-radius: var(--radius);
+  border-style: var(--style);
+  border-width: var(--bwidth);
+  
 }
 
 #container{
-  background-color: blue;
+  background-color: var(--mainbgcolor);
   height:1000px;
   width:100%;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   position: relative;
+}
+
+img{
+  width:100px;
+  height:100px;
+  border-color: var(--bordercoler);
+  border-width: var(--bwidth);
+  border-style:var(--style)
 }
