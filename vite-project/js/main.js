@@ -36,7 +36,7 @@ function yay(attunement,et){
         event.preventDefault()
         let htmlelements = ""
         let x = deepwoken.filter((something)=>something.attunement===`${attunement}`);
-        x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}><p>${sm.type}</p> <p> ${sm.stars}★</div>`)
+        x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}> <p>${sm.type}</p> <p> ${sm.stars}</p> </div>`)
         DOMselectors.container.innerHTML = htmlelements
         
     });
