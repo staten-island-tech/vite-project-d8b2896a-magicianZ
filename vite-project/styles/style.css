@@ -25,18 +25,19 @@ h1,p,button {
   margin: 20px;
   padding: 50px;
   overflow: hidden;
-  background-color: aliceblue;
+  background-color: var(--cardcolor);
   border-color: var(--bordercoler);
   border-radius: var(--radius);
   border-style: var(--style);
   border-width: var(--bwidth);
   
-}
+} 
+
 
 #container{
   background-color: var(--mainbgcolor);
-  height:1000px;
-  width:100%;
+  height:1250px;
+  width:auto;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -44,8 +45,8 @@ h1,p,button {
 }
 
 img{
-  width:100px;
-  height:100px;
+  width:130px;
+  height:130px;
   border-color: var(--bordercoler);
   border-width: var(--bwidth);
   border-style:var(--style)

@@ -15,7 +15,7 @@ const deepwoken = [
         name:"Flame Repulsion",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/c/c2/Fire_Replusion_gif.gif/revision/latest?cb=20220113002058",
+        img:"../images/Fire_Replusion_gif.webp",
         type:"Combat"
 
     },
@@ -23,119 +23,119 @@ const deepwoken = [
         name:"Burning Servants",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/63/Burning_Servants.gif/revision/latest?cb=20220617073857",
+        img:"../images/Burning_Servants.webp",
         type:"Combat"
     },
     {
         name:"Fire Gun",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/e/ed/FireGun.gif/revision/latest?cb=20220113212028",
+        img:"../images/FireGun.webp",
         type:"Combat"
     },
     {
         name:"Flame Grab",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/c/c1/FlameGrab.gif/revision/latest?cb=20220113212156",
+        img:"../images/FlameGrab.webp",
         type:"Combat"
     },
     {
         name:"Flame Blind",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/6b/Flameblind.gif/revision/latest?cb=20230819222424",
+        img:"../images/Flameblind.webp",
         type:"Combat"
     },
     {
         name:"Flame of Denial",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/b/b7/Flame_of_Denial_%28gif%29.gif/revision/latest?cb=20220125205726",
+        img:"../images/Flame_of_Denial_29.webp",
         type:"Support"
     },
     {
         name:"Fire Palm",
         attunement:"Flamecharm",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/39/Fire_Palm.gif/revision/latest?cb=20211229053952",
+        img:"../images/Fire_Palm.webp",
         type:"Combat"
     },
     {
         name:"Fire Eruption",
         attunement:"Flamecharm",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/7/74/Flame_Eruption_gif.gif/revision/latest?cb=20220205071458",
+        img:"../images/Flame_Eruption_gif.webp",
         type:"Combat"
     },
     {
         name:"Fire Forge",
         attunement:"Flamecharm",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/0c/Fire_forge%282%29.gif/revision/latest?cb=20220130004149",
+        img:"../images/Fire_forge29.webp",
         type:"Combat"
     },
     {
         name:"Graceful Flame",
         attunement:"Flamecharm",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/8/8a/Graceful_Flame.gif/revision/latest?cb=20220119052003",
+        img:"../images/Graceful_Flame.webp",
         type:"Support"
     },
     {
         name:"Relentless Flames",
         attunement:"Flamecharm",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/e/e3/Relentlessflames.gif/revision/latest?cb=20231105001246",
+        img:"../images/Relentlessflames.gif",
         type:"Combat"
     },
     {
         name:"Rising Flame",
         attunement:"Flamecharm",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/8/8d/Risingflames.gif/revision/latest?cb=20220113002431",
+        img:"../images/Risingflames.webp",
         type:"Combat"
     },
     {
         name:"Flame Assault",
         attunement:"Flamecharm",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/e/ef/Flame_Assualt.gif.gif/revision/latest?cb=20221227133759",
+        img:"../images/Flame_Assualt.gif.webp",
         type:"Combat"
     },
     {
         name:"Flame Leap",
         attunement:"Flamecharm",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/3e/Flameleap.gif/revision/latest?cb=20230819222629",
+        img:"../images/Flameleap.gif",
         type:"Mobility"
     },
     {
         name:"Flame Wisp",
         attunement:"Flamecharm",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/1b/FlameWisp.gif/revision/latest?cb=20230819222752",
+        img:"../images/FlameWisp.gif",
         type:"Support"
     },
     {
         name:"Ash Slam",
         attunement:"Flamecharm",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/5/52/Ashslam.gif/revision/latest?cb=20230207201718",
+        img:"../images/Ashslam.webp",
         type:"Combat"
     },
     {
         name:"Flame Ballista",
         attunement:"Flamecharm",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/2e/Flame_Ballista.gif/revision/latest?cb=20231112164455",
+        img:"../images/Flame_Ballista.webp",
         type:"Combat"
     },
     {
         name:"Flaming Scourge",
         attunement:"Flamecharm",
         stars:3,
-        img:"",
+        img:"../images/FlameScourage.webp",
         type:"Combat"
     },
     {
@@ -149,476 +149,476 @@ const deepwoken = [
         name:"Jolt Grab",
         attunement:"Thundercall",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/48/Jolt_grab.gif/revision/latest?cb=20220111213641",
+        img:"../images/Jolt_grab.webp",
         type:"Combat"
     },
     {
         name:"Electro Carve",
         attunement:"Thundercall",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/f/f2/Electro_carve.gif/revision/latest?cb=20211227210838",
+        img:"../images/Electro_carve.webp",
         type:"Combat"
     },
     {
         name:"Lightning Beam",
         attunement:"Thundercall",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/11/Lightning_Beam.gif/revision/latest?cb=20211231003823",
+        img:"../images/Lightning_Beam.webp",
         type:"Combat"
     },
     {
         name:"Lightning Impact",
         attunement:"Thundercall",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/6c/Lightning_Impact.gif/revision/latest?cb=20211227205713",
+        img:"../images/Lightning_Impact.webp",
         type:"Combat"
     },
     {
         name:"Lightning Stream",
         attunement:"Thundercall",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/0a/Lightning_stream.gif/revision/latest?cb=20211227210405",
+        img:"../images/Lightning_stream.webp",
         type:"Support"
     },
     {
         name:"Lightning Clones",
         attunement:"Thundercall",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/23/Lightning_clone.gif/revision/latest?cb=20220130194512",
+        img:"../images/Lightning_clone.webp",
         type:"Combat"
     },
     {
         name:"Lightning Strike",
         attunement:"Thundercall",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/23/Lightning_Strike.gif/revision/latest?cb=20230130134424",
+        img:"../images/Lightning_Strike.webp",
         type:"Combat"
     },
     {
         name:"Thunder Kick",
         attunement:"Thundercall",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/a/a5/Lightning_Kick.gif/revision/latest?cb=20220111220429",
+        img:"../images/Lightning_Kick.webp",
         type:"Combat"
     },
     {
         name:"Storm Blades",
         attunement:"Thundercall",
         stars:1,
-        img:"https://deepwoken.fandom.com/wiki/File:Storm_Blades_Fixed.gif",
+        img:"../images/Storm_Blades_Fixed.webp",
         type:"Combat"
     },
     {
         name:"Grand Javelin",
         attunement:"Thundercall",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/4e/Grand_Javelin_fixed.gif/revision/latest?cb=20211227205254",
+        img:"../images/Grand_Javelin_fixed.webp",
         type:"Combat"
     },
     {
         name:"Thunder Wisp",
         attunement:"Thundercall",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/d/d3/ThunderWisp.png/revision/latest?cb=20230923031110",
+        img:"../images/ThunderWisp.webp",
         type:"Support"
     },
     {
         name:"Bolt Piercer",
         attunement:"Thundercall",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/3a/Bolt_Piercer.gif/revision/latest?cb=20220130050443",
+        img:"../images/Bolt_Piercer.webp",
         type:"Combat"
     },
     {
         name:"Lightning Assault",
         attunement:"Thundercall",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/46/Lightning_assault.gif/revision/latest?cb=20220107193626",
+        img:"../images/Lightning_assault.webp",
         type:"Mobility"
     },
     {
         name:"Spark Swap",
         attunement:"Thundercall",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/06/Sparkswap.gif/revision/latest?cb=20220130192530",
+        img:"../images/Sparkswap.webp",
         type:"Support"
     },
     {
         name:"Thunder Cloak",
         attunement:"Thundercall",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/4d/Screenshot_2022-01-31_1.31.49_PM.png/revision/latest?cb=20220131193305",
+        img:"../images/LightningCloak.webp",
         type:"Mobility"
     },
     {
         name:"Rising Thunder",
         attunement:"Thundercall",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/d/dd/Risingthundergid.gif/revision/latest?cb=20230214190747",
+        img:"../images/Risingthundergid.webp",
         type:"Combat"
     },
     {
         name:"Ice Spikes",
         attunement:"Frostdraw",
         stars:0,
-        img:"https://deepwoken.fandom.com/wiki/File:icespikes.gif",
+        img:"../images/Icespikes.webp",
         type:"Combat"
     },
     {
         name:"Ice Beam",
         attunement:"Frostdraw",
         stars:0,
-        img:"https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif",
+        img:"../images/Ice_Beam.webp",
         type:"Combat"
     },
     {
         name:"Frost Grab",
         attunement:"Frostdraw",
         stars:0,
-        img:"https://deepwoken.fandom.com/wiki/File:Frostgrab%20base%20range.gif",
+        img:"../images/Frostgrab_base_range.webp",
         type:"Combat"
     },
     {
         name:"Warden Blades",
         attunement:"Frostdraw",
         stars:0,
-        img:"https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif",
+        img:"../images/Warden.webp",
         type:"Combat"
     },
     {
         name:"Frozen Servants",
         attunement:"Frostdraw",
         stars:0,
-        img:"https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif",
+        img:"../images/Frozen_Soldiers_gif.webp",
         type:"Combat"
     },
     {
         name:"Ice Daggers",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/e/e1/Ice_daggers.gif/revision/latest?cb=20230117165613",
+        img:"../images/Ice_daggers.webp",
         type:"Combat"
     },
     {
         name:"Ice Blade",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://deepwoken.fandom.com/wiki/File:Iceblade.gif",
+        img:"../images/Iceblade.webp",
         type:"Combat"
     },
     {
         name:"Ice Chain",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/4f/Ice_Chain.gif/revision/latest?cb=20220629135744",
+        img:"../images/Ice_Chain.webp",
         type:"Combat"
     },
     {
         name:"Ice Eruption",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/19/Ice_eruption_real.gif/revision/latest?cb=20230117164310",
+        img:"../images/Ice_eruption_real.webp",
         type:"Combat"
     },
     {
         name:"Ice Forge",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif",
+        img:"../images/Ice_Forge_.webp",
         type:"Combat"
     },
     {
         name:"Ice Smash",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://deepwoken.fandom.com/wiki/File:Icesmash.gif",
+        img:"../images/Icesmash.webp",
         type:"Combat"
     },
     {
         name:"Glacial Arc",
         attunement:"Frostdraw",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/5/5e/Glacialarc.gif/revision/latest?cb=20211223001842",
+        img:"../images/Glacialarc.webp",
         type:"Mobility"
     },
     {
         name:"Ice Lance",
         attunement:"Frostdraw",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/60/Ice_lance.gif/revision/latest?cb=20231028233842",
+        img:"../images/Ice_lance.gif",
         type:"Combat"
     },
     {
         name:"Rising Frost",
         attunement:"Frostdraw",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/f/f0/Rising_Frost.gif/revision/latest?cb=20231028234047",
+        img:"../images/Rising_Frost.webp",
         type:"Combat"
     },
     {
         name:"Frost Wisp",
         attunement:"Frostdraw",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/4f/Frost_wisp.png/revision/latest?cb=20230901211842",
+        img:"../images/Frost_wisp.webp",
         type:"Combat"
     },
     {
         name:"Ice Cubes",
         attunement:"Frostdraw",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/38/Ice_Cubes.gif/revision/latest?cb=20230623192530",
+        img:"../images/Ice_Cubes.webp",
         type:"Combat"
     },
     {
         name:"Ice Fissure",
         attunement:"Frostdraw",
         stars:3,
-        img:"https://deepwoken.fandom.com/wiki/File:IceFissure.gif",
+        img:"../images/IceFissure.webp",
         type:"Combat"
     },
     {
         name:"Ice Skate",
         attunement:"Frostdraw",
         stars:3,
-        img:"https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif",
+        img:"../images/Ice_Skate.webp",
         type:"Mobility"
     },
     {
         name:"Iceberg",
         attunement:"Frostdraw",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/b/bb/Iceberg_lettuceee.gif/revision/latest?cb=20230117171613",
+        img:"../images/Iceberg_lettuceee.webp",
         type:"Support"
     },
     {
         name:"Wind Blade",
         attunement:"Galebreathe",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/8/8d/WindBlade1Gif.gif/revision/latest?cb=20211225005947",
+        img:"../images/WindBlade1Gif.webp",
         type:"Combat"
     },
     {
         name:"Air Force",
         attunement:"Galebreathe",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/4/44/AirForceGif.gif/revision/latest?cb=20211225010248",
+        img:"../images/AirForceGif.webp",
         type:"Combat"
     },
     {
         name:"Tornado Kick",
         attunement:"Galebreathe",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/13/Tornado_Kick.gif/revision/latest?cb=20230218181817",
+        img:"../images/Tornado_Kick.webp",
         type:"Combat"
     },
     {
         name:"Gale Lunge",
         attunement:"Galebreathe",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/c/c3/GaleLungeGif.gif/revision/latest?cb=20211225005449",
+        img:"../images/GaleLungeGif.webp",
         type:"Combat"
     },
     {
         name:"Tornado",
         attunement:"Galebreathe",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/02/GaleTornadoNewGif.gif/revision/latest?cb=20220423115755",
+        img:"../images/GaleTornadoNewGif.gif",
         type:"Combat"
     },
     {
         name:"Heavenly Wind",
         attunement:"Galebreathe",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/7/71/HeavenlyWindGif.gif/revision/latest?cb=20211225005200",
+        img:"../images/HeavenlyWindGif.webp",
         type:"Combat"
     },
     {
         name:"Gale Trap",
         attunement:"Galebreathe",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/06/GaleTrap.gif/revision/latest?cb=20220109220330",
+        img:"../images/GaleTrap.webp",
         type:"Combat"
     },
     {
         name:"Gale Punch",
         attunement:"Galebreathe",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/27/Gale_Punch.gif/revision/latest?cb=20220104114232",
+        img:"../images/Gale_Punch.webp",
         type:"Combat"
     },
     {
         name:"Champion's Whirlthrow",
         attunement:"Galebreathe",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/8/85/Champion_Twister.gif/revision/latest?cb=20220522132117",
+        img:"../images/Champion_Twister.webp",
         type:"Combat"
     },
     {
         name:"Rising Wind",
         attunement:"Galebreathe",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/5/50/Rising_Windo.gif/revision/latest?cb=20220109215233",
+        img:"../images/Rising_Windo.webp",
         type:"Combat"
     },
     {
         name:"Wind Gun",
         attunement:"Galebreathe",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/a/a7/Windgun.gif/revision/latest?cb=20211228183355",
+        img:"../images/Windgun.webp",
         type:"Combat"
     },
     {
         name:"Wind Carve",
         attunement:"Galebreathe",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/f/f4/Wind_Carve.gif/revision/latest?cb=20220109214409",
+        img:"../images/Wind_Carve.webp",
         type:"Combat"
     },
     {
         name:"Gale Wisp",
         attunement:"Galebreathe",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/9/9f/Galewispgif.gif/revision/latest?cb=20211226032919",
+        img:"../images/Galewispgif.webp",
         type:"Support"
     },
     {
         name:"Astral Wind",
         attunement:"Galebreathe",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/7/7b/Astralwind.gif/revision/latest?cb=20211226032036",
+        img:"../images/Astralwind.webp",
         type:"Combat"
     },
     {
         name:"Pillars of Erisia",
         attunement:"Galebreathe",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/9/9f/PoE.gif/revision/latest?cb=20230626204354",
+        img:"../images/PillarsofErisia.gif",
         type:"Combat"
     },
     {
         name:"Wind Passage",
         attunement:"Galebreathe",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/c/cb/Wind_Passage.gif/revision/latest?cb=20230514112710",
+        img:"../images/Wind_Passage.webp",
         type:"Mobility"
     },
     {
         name:"Needle Barrage",
         attunement:"Ironsing",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/5/53/Needles.gif/revision/latest?cb=20230523110616",
+        img:"../images/Needles.webp",
         type:"Combat"
     },
     {
         name:"Metal Eruption",
         attunement:"Ironsing",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/e/e4/Metal_eruption.gif/revision/latest?cb=20230523023728",
+        img:"../images/Metal_eruption.webp",
         type:"Combat"
     },
     {
         name:"Metal Rampart",
         attunement:"Ironsing",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/64/Metal_Pillar.gif/revision/latest?cb=20230522215108",
+        img:"../images/Metal_Pillar.webp",
         type:"Mobility"
     },
     {
         name:"Metal Kick",
         attunement:"Ironsing",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/29/Metal_kick.gif/revision/latest?cb=20230522215151",
+        img:"../images/Metal_kick.webp",
         type:"Combat"
     },
     {
         name:"Chain Pull",
         attunement:"Ironsing",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/14/Chain_Pull.gif/revision/latest?cb=20230529214023",
+        img:"../images/Chain_Pull.webp",
         type:"Support"
     },
     {
         name:"Iron Skin",
         attunement:"Ironsing",
         stars:1,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/6/62/The_metal_skin.gif/revision/latest?cb=20230522235824",
+        img:"../images/IronSkin.webp",
         type:"Support"
     },
     {
         name:"Metal Rain",
         attunement:"Ironsing",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/1/13/Metal_rain.gif/revision/latest?cb=20230522215019",
+        img:"../images/Metal_rain.gif",
         type:"Combat"
     },
     {
         name:"Caltrops",
         attunement:"Ironsing",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/f/fb/Caltrops.gif/revision/latest?cb=20230523045850",
+        img:"../images/Caltrops.webp",
         type:"Combat"
     },
     {
         name:"Firing Line",
         attunement:"Ironsing",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/2/25/Firing_line.gif/revision/latest?cb=20230522231931",
+        img:"../images/Firing_line.webp",
         type:"Combat"
     },
     {
         name:"Oxidizing Rush",
         attunement:"Ironsing",
         stars:2,
-        img:"https://deepwoken.fandom.com/wiki/File:Giphy_(1).gif",
+        img:"../images/oxidizingrush.webp",
         type:"Combat"
     },
     {
         name:"Metal Ball",
         attunement:"Ironsing",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/0/02/Metal_ball.gif/revision/latest?cb=20230522235932",
+        img:"../images/Metal_ball.webp",
         type:"Mobility"
     },
     {
         name:"Metal Wisp",
         attunement:"Ironsing",
         stars:2,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/c/c6/Metal_wisp.gif/revision/latest?cb=20230913001155",
+        img:"../images/Metal_wisp.webp",
         type:"Support"
     },
     {
         name:"Metal Armament",
         attunement:"Ironsing",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/36/Metal_armament.gif/revision/latest?cb=20230523023851",
+        img:"../images/Metal_armament.gif",
         type:"Combat"
     },
     {
         name:"Metal Gatling",
         attunement:"Ironsing",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/9/9e/Metal_gatling.gif/revision/latest?cb=20230522232546",
+        img:"../images/Metal_gatling.webp",
         type:"Combat"
     },
     {
         name:"Iron Slam",
         attunement:"Ironsing",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/3b/Iron_slam.gif/revision/latest?cb=20230522232043",
+        img:"../images/Iron_slam.webp",
         type:"Combat"
     },
     {
         name:"Iron Hug",
         attunement:"Ironsing",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/3/31/1685508613-uncappedmedaltvroblox20230530214713-downsampled_%283%29.gif/revision/latest?cb=20230531050447",
+        img:"../images/IronHug.webp",
         type:"Combat"
     },
     {
         name:"Rocket Lance",
         attunement:"Ironsing",
         stars:3,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/a/a7/Rocket_Lance.gif/revision/latest?cb=20230610112716",
+        img:"../images/Rocket_Lance.webp",
         type:"Combat"
     },
     {
@@ -681,14 +681,7 @@ const deepwoken = [
         name:"Shadow Meteors",
         attunement:"Shadowcast",
         stars:2,
-        img:"../images/Shadow_Meteor.webp",
-        type:"Combat"
-    },
-    {
-        name:"Shadow Meteors",
-        attunement:"Shadowcast",
-        stars:2,
-        img:"../images/Shadow_Meteor.webp",
+        img:"../images/Shadow_Meteor.gif",
         type:"Combat"
     },
     {
@@ -716,7 +709,7 @@ const deepwoken = [
         name:"Shade Devour",
         attunement:"Shadowcast",
         stars:1,
-        img:"../images/ShadoowDevour.webp",
+        img:"../images/ShadowDevour.webp",
         type:"Support"
     },
     {
@@ -800,7 +793,7 @@ const deepwoken = [
         name:"Shoulder Bash",
         attunement:"Physical",
         stars:0,
-        img:"../images/Shoulder_Base_Mantra_Demonstration.webp",
+        img:"../images/Shoulder_Bash_Mantra_Demonstration.webp",
         type:"Mobility"
     },
     {
@@ -992,6 +985,7 @@ const deepwoken = [
         img:"../images/Enforcer_Pull.gif",
         type:"Support"
     },
+
     
  
 ]
