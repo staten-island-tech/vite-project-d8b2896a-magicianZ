@@ -7,7 +7,7 @@ const deepwoken = [
         name:"Fire Blade",
         attunement:"Flamecharm",
         stars:0,
-        img:"https://static.wikia.nocookie.net/project-deepwoken/images/a/a1/FireBlade1.gif/revision/latest?cb=20211231175006",
+        img:"../images/FireBlade1.webp",
         type:"Combat"
         
     },
@@ -621,6 +621,379 @@ const deepwoken = [
         img:"https://static.wikia.nocookie.net/project-deepwoken/images/a/a7/Rocket_Lance.gif/revision/latest?cb=20230610112716",
         type:"Combat"
     },
+    {
+        name:"Dark Blade",
+        attunement:"Shadowcast",
+        stars:0,
+        img:"../images/Dark_Blade.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Gun",
+        attunement:"Shadowcast",
+        stars:0,
+        img:"../images/Shadow_Gun.webp",
+        type:"Combat"
+    },
+    {
+        name:"Clutching Shadow",
+        attunement:"Shadowcast",
+        stars:0,
+        img:"../images/Clutching_Shadow.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Chains",
+        attunement:"Shadowcast",
+        stars:1,
+        img:"../images/Shadow_Chains.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Eruption",
+        attunement:"Shadowcast",
+        stars:1,
+        img:"../images/Shadow_Eruption.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Seekers",
+        attunement:"Shadowcast",
+        stars:1,
+        img:"../images/ShadowSeekers.gif",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Roar",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/Shadow_Roar.webp",
+        type:"Combat"
+    },
+    {
+        name:"Rising Shadow",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/RisingShadow.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Meteors",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/Shadow_Meteor.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Meteors",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/Shadow_Meteor.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shade Bringer",
+        attunement:"Shadowcast",
+        stars:3,
+        img:"../images/Shade_bringer.webp",
+        type:"Combat"
+    },
+    {
+        name:"Eclipse Kick",
+        attunement:"Shadowcast",
+        stars:3,
+        img:"../images/EclipseKick.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shadow Vortex",
+        attunement:"Shadowcast",
+        stars:3,
+        img:"../images/Shadow_Vortex.webp",
+        type:"Combat"
+    },
+    {
+        name:"Shade Devour",
+        attunement:"Shadowcast",
+        stars:1,
+        img:"../images/ShadoowDevour.webp",
+        type:"Support"
+    },
+    {
+        name:"Devouring Eye",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/DevouringEye.webp",
+        type:"Support"
+    },
+    {
+        name:"Shade Wisp",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/Shadewisp_gif.gif",
+        type:"Support"
+    },
+    {
+        name:"Encircle",
+        attunement:"Shadowcast",
+        stars:1,
+        img:"../images/Encircle.webp",
+        type:"Mobility"
+    },
+    {
+        name:"Shadow Assault",
+        attunement:"Shadowcast",
+        stars:2,
+        img:"../images/Shadow_Assault.webp",
+        type:"Mobility"
+    },
+    {
+        name:"Strong Left",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Rapid Punches",
+        attunement:"Physical",
+        stars:1,
+        img:"../images/Rapid_Punches.webp",
+        type:"Combat"
+    },
+    {
+        name:"Strong Leap",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Mobility"
+    },
+    {
+        name:"Tacet Drop Kick",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Rally",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Reinforce",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Reinforce.webp",
+        type:"Support"
+    },
+    {
+        name:"Brace",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Shoulder Bash",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Shoulder_Base_Mantra_Demonstration.webp",
+        type:"Mobility"
+    },
+    {
+        name:"Revenge",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Revenge.webp",
+        type:"Combat"
+    },
+    {
+        name:"Dash",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Dash_Mantra_Demonstration.webp",
+        type:"Mobility"
+    },
+    {
+        name:"Adrenaline Surge",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Adrenaline_Rush.webp",
+        type:"Support"
+    },
+    {
+        name:"Summon Cauldron",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Prediction",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Gaze",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Glare",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Exhaustion Strike",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Taunt",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Sing",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Disguise",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Support"
+    },
+    {
+        name:"Rapid Slashes",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Ceaseless Slashes",
+        attunement:"Physical",
+        stars:3,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Master's Flourish",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Prominence Draw",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Flashdraw Strike",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Pressure Blast",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Pressure_Blast.webp",
+        type:"Combat"
+    },
+    {
+        name:"Punishment",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Onslaught",
+        attunement:"Physical",
+        stars:0,
+        img:"../images/Attunement-less_icon.webp",
+        type:"Combat"
+    },
+    {
+        name:"Brachial Spear",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Brachial_Spear.webp",
+        type:"Combat"
+    },
+    {
+        name:"Coral Spear",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Coral_Spear.webp",
+        type:"Combat"
+    },
+    {
+        name:"Dread Breath",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Dread_Breath.webp",
+        type:"Combat"
+    },
+    {
+        name:"Mecha Gatling",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Mecha_Gatling.webp",
+        type:"Combat"
+    },
+    {
+        name:"Whirling Blade",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/WhirlingBlade2.webp",
+        type:"Combat"
+    },
+    {
+        name:"Abyssal Ridge",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Abyssal_ridge.webp",
+        type:"Combat"
+    },
+    {
+        name:"Beast Burrow",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Beast_Burrow.gif",
+        type:"Mobility"
+    },
+    {
+        name:"Enforcer Pull",
+        attunement:"Monster",
+        stars:2,
+        img:"../images/Enforcer_Pull.gif",
+        type:"Support"
+    },
+    
+ 
 ]
 
 export{deepwoken}
