@@ -1,7 +1,7 @@
 
 @import url(variables.css);
 body {
-  background-color: red;
+  background-color: var(--mainbgcolor);
   margin: 0;
   display: flex;
   place-items: center;
@@ -16,7 +16,7 @@ h1,p,button {
   
   
 }
-#card{
+.card{
   display: flex;
   flex-wrap: wrap;
   position: relative;
@@ -25,11 +25,11 @@ h1,p,button {
   margin: 20px;
   padding: 50px;
   overflow: hidden;
-  background-color: var(--cardcolor);
-  border-color: var(--bordercoler);
-  border-radius: var(--radius);
-  border-style: var(--style);
-  border-width: var(--bwidth);
+  background-color: var(--primary);
+  border-color: var(--secondary);
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 3px;
   
 } 
 
@@ -47,7 +47,7 @@ h1,p,button {
 img{
   width:130px;
   height:130px;
-  border-color: var(--bordercoler);
-  border-width: var(--bwidth);
-  border-style:var(--style)
+  border-color: var(--secondary);
+  border-width: 3px;
+  border-style: solid;
 }

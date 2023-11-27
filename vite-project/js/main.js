@@ -11,6 +11,8 @@ document.querySelector('#app').innerHTML = `
 <button id="ethanbutton6">Shadowcast</button>
 <button id="ethanbutton7">Physical</button>
 <button id="ethanbutton8">Monster</button>
+<button id="theme1">Theme Changer</button>
+
 <div id="container"> </div>`
 
 
@@ -28,6 +30,8 @@ const DOMselectors = {
     buttin6:document.querySelector("#ethanbutton6"),
     buttin7:document.querySelector("#ethanbutton7"),
     buttin8:document.querySelector("#ethanbutton8"),
+    theme1:document.querySelector("#theme1"),
+
 
 
 }
@@ -36,12 +40,28 @@ function yay(attunement,et){
         event.preventDefault()
         let htmlelements = ""
         let x = deepwoken.filter((something)=>something.attunement===`${attunement}`);
-        x.forEach((sm)=>htmlelements+=`<div id="card"> <p>${sm.name}</p> <img src=${sm.img}> <p>${sm.type}</p> <p> ${sm.stars}</p> </div>`)
+        x.forEach((sm)=>htmlelements+=`<div class="card"> <p>${sm.name}</p> <img src=${sm.img}> <p>${sm.type}</p> <p> ${sm.stars}</p> </div>`)
         DOMselectors.container.innerHTML = htmlelements
         
     });
 
 }
+
+
+
+DOMselectors.theme1.addEventListener("click", function () {
+    if (document.body.classList.contains("dark")) {
+      document.body.classList.add("cotton");
+      document.body.classList.remove("dark");
+    } else {
+      document.body.classList.add("dark");
+      document.body.classList.remove("cotton");
+    }
+  });
+
+
+
+
 
 yay("Frostdraw",DOMselectors.y)
 yay("Flamecharm",DOMselectors.buttin2)
@@ -51,6 +71,7 @@ yay("Ironsing",DOMselectors.buttin5)
 yay("Shadowcast",DOMselectors.buttin6)
 yay("Physical",DOMselectors.buttin7)
 yay("Monster",DOMselectors.buttin8)
+
 
 
 
