@@ -1,7 +1,3 @@
-
-
-
-
 const deepwoken = [
     {
         name:"Fire Blade",
